@@ -41,14 +41,14 @@ API Node.js com Express e MongoBD
 
 * GET /produtos - busca no banco de dados a lista de produtos sem nenhum filtro
 * POST /produtos - envia os parâmetros para o servidor e como resultado o servidor cria um produto no banco de dados
-* GET /produtos/{idProduto} - busca as informações de um produto em específico pelo idProduto
-* PATCH /produtos/{idProduto} - atualiza as propriedades de um produto no banco de dados
-* DELETE /produtos/{idProduto} - exclui um produto do banco de dados pelo seu idProduto
+* GET /produtos/{id} - busca as informações de um produto específico pelo id
+* PATCH /produtos/{id} - atualiza as propriedades de um produto no banco de dados
+* DELETE /produtos/{id} - exclui um produto do banco de dados pelo seu id
 
 * GET /pedidos - busca no banco de dados a lista de pedidos sem nenhum filtro
 * POST /pedidos - envia os parâmetros para o servidor e como resultado o servidor cria um pedido no banco de dados
-* GET /pedidos/{idPedido} - busca as informações de um pedido em específico pelo idPedido
-* DELETE /pedidos/{idPedido} - exclui um pedido do banco de dados pelo seu idPedido
+* GET /pedidos/{id} - busca as informações de um pedido específico pelo id
+* DELETE /pedidos/{id} - exclui um pedido do banco de dados pelo seu id
 
 <br/>
 
