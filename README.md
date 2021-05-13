@@ -1,5 +1,5 @@
 # CHINA BOX NODE API
-API Node.js com Express e MongoBD 
+API Node.js com Express e MongoDB 
 
 ###### <p align="right">Autor: Wesley Marra </p>
 
